@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Article"
+  short_description: "抓取微信公众号文章全文标题作者时间并输出结构化正文内容"
+  default_prompt: "Use $wechat-article to fetch and extract this WeChat public account article."
